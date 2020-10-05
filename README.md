@@ -20,4 +20,6 @@ Since the assignment doesn't require us to develop auth connection, I used the a
 Extra Functionality: Can open the selected file, after filtering, in a separate tab
 
 
+<img src='public/assignmentdemo.JPG/>
+
 
