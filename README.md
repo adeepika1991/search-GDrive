@@ -20,6 +20,7 @@ Since the assignment doesn't require us to develop auth connection, I used the a
 Extra Functionality: Can open the selected file, after filtering, in a separate tab
 
 
-<img src='public/assignmentdemo.JPG/>
 
+
+![alt text](https://github.com/adeepika1991/search-GDrive/blob/public/assignmentdemo.JPG?raw=true)
 
