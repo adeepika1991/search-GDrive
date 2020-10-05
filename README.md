@@ -22,5 +22,5 @@ Extra Functionality: Can open the selected file, after filtering, in a separate 
 
 
 
-![alt text](https://github.com/adeepika1991/search-GDrive/blob/public/assignmentdemo.JPG?raw=true)
+<img src='public/assignmentdemo.JPG' raw=true alt='assignment demo'/>
 
